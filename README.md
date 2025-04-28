@@ -64,4 +64,11 @@ Example:
 
 When `reset` is active, the vending machine immediately resets to the initial state `s0` and clears all internal states.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/6d33161b-943b-474c-a295-b3dc3fa1afe3)
+![image](https://github.com/user-attachments/assets/d7df619c-ccf7-4524-83a0-e349ce6535a1)
+Using Quartus Prime:
+![image](https://github.com/user-attachments/assets/40d42d00-c642-4cec-ab84-3ce03cd98245)
+![image](https://github.com/user-attachments/assets/c610cdd8-e6d5-444e-b2fe-567920b37dbd)
+
 
